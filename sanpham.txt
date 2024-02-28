@@ -1,0 +1,11 @@
+SP01	Áo	chiếc	May10	100000	150000	33
+SP02	Quần	chiếc	May10	120000	140000	33
+SP03	Gối	chiếc	Nam Linh	40000	45000	43
+SP04	Nước Ngọt	lốc	Coca Cola	 56000	60000	80
+SP05	Đệm	chiếc	Everon	450000	600000	55
+SP06	Máy Giặt	chiếc	electrolux	10000000	16990000	19
+SP07	Giấy Ăn	bịch	Vietnam Airlines	30000	45000	14
+SP08	TiVi	chiếc	SamSung	30000000	38490000	22
+SP10	BimBim	bịch	Oishi	43000	50000	19
+SP11	Giầy gucci	đôi	Gucci	2000000	2590000	54
+SP12	Túi 	chiếc	juno	300000	400000	56
